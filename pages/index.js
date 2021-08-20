@@ -9,7 +9,7 @@ export default function Home({ results }) {
   return (
     <div>
       <Head>
-        <title>Hulu-Clone</title>
+        <title>Hulu_Clone</title>
         <link rel="shortcut icon" href="/hulu.png" type="image/x-icon" />
       </Head>
 
